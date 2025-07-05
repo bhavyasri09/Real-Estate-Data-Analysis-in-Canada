@@ -27,7 +27,7 @@ This project analyzes real estate sales data in Canada using **Tableau** to iden
 ---
 
 ## 🔗 **Tableau Dashboard Link**
-[**View the Dashboard Here**]([https://public.tableau.com/shared/C43RBY9JD?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/pattapu.bhavya.sri/viz/Project_17395139095120/RealEstateDataAnalysisinCanada))
+[**View the Dashboard Here**]([https://public.tableau.com/app/profile/pattapu.bhavya.sri/viz/Project_17395139095120/RealEstateDataAnalysisinCanada])
 
 ---
 
